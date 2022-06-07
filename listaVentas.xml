@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE ListaVentas SYSTEM "listaVentas.dtd">
+<!--<ListaVentas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="listaVentas.xsd">-->
+<ListaVentas>
+    <venta>
+        <importe>Iphone 11</importe>
+        <comprador>Lucas Marin</comprador>
+        <vendedor>Lucia Perez</vendedor>
+        <fecha>2022-05-16</fecha>
+        <CodFactura>1QXXWW332X</CodFactura>
+    </venta>
+</ListaVentas>
